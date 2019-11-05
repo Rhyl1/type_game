@@ -1,7 +1,7 @@
 # Code Institute
 
-Welcome USER_NAME,
+Welcome Reader,
 
-We have preinstalled all of the tools you need to get started.
+All props go to Riva Tamada who got me started on programming this game, via his free tutorial
+>> https://www.9lessons.info/2010/12/typing-game-with-jquery.html
 
-Happy coding!
